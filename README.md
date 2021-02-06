@@ -1,10 +1,10 @@
 <!-- ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=masahirokurauchi&theme=algolia) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=masahirokurauchi&theme=algolia&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=masahirokurauchi&theme=graywhite&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masahirokurauchi&theme=algolia" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masahirokurauchi&theme=graywhite" />
 </a>
 
 <!-- [![](https://raw.githubusercontent.com/masahirokurauchi/masahirokurauchi/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
