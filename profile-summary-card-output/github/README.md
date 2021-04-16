@@ -25,16 +25,6 @@
 
 ---
 
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/masahirokurauchi/masahirokurauchi/main/profile-summary-card-output/github/2-most-commit-language.svg)
-```
-
-    
-
----
-
 ![](./4-productive-time.svg)
 
 ```
